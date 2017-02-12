@@ -12,6 +12,11 @@ p {
   font-family: Helvetica, Arial, monospace;
 }
 
+button {
+  border: none;
+  transition-duration: 0.5s;
+}
+
 button.chapter {
   background-color: #454650;
   border-radius: 8px;
