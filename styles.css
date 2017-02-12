@@ -18,6 +18,12 @@ button.chapter {
   color: #bcbec2;
 }
 
+button.action {
+  background-color: #555660;
+  border-radius: 8px;
+  color: #bcbec2;
+}
+
 button.red {
   background-color: #956670;
   border-radius: 12px;
