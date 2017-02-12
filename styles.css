@@ -40,6 +40,10 @@ button:hover {
   color: #ccced2;
 }
 
+button:active {
+  color: #eceef2;
+}
+
 .computertext {
   font-family: Courier, Courier New, monospace;
 }
