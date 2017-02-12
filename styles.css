@@ -50,6 +50,11 @@ button:active {
   color: #eceef2;
 }
 
+.contents {
+  -webkit-transition-duration: 0.5s;
+  transition-duration: 0.5s;
+}
+
 .computertext {
   font-family: Courier, Courier New, monospace;
 }
